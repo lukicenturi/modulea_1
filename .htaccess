@@ -3,3 +3,5 @@
 
 
 # END WordPress
+
+php_value max_upload_filesize 128M

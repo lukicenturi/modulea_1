@@ -21,7 +21,7 @@
             body{
                 background:black;
             }
-            
+
             h1 a{
                 background-image:url('<?= DIR ?>/image/logo.png') !important;
                 margin:0 !important;
